@@ -1,0 +1,10 @@
+.about {
+  background-color: var(--color-secondary);
+  color: var(--color-text);
+  text-align: center;
+  padding: 30px;
+}
+
+.about h2 {
+  padding: 20px 0px;
+}
